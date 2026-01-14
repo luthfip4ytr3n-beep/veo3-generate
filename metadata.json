@@ -1,0 +1,5 @@
+{
+  "name": "Veo3 Studio",
+  "description": "Professional AI Video Generation using Google Veo 3 model. Create high-quality videos from text and image prompts with customizable resolution and aspect ratios.",
+  "requestFramePermissions": []
+}
